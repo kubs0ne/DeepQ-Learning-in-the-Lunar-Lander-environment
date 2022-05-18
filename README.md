@@ -1,0 +1,2 @@
+# DeepQ-Learning-in-the-Lunar-Lander-environment
+This repository shows the implementation of DeepQ Learning in Python. The environment used to demonstrate the algorithm was Lunar Lander form the Gym library. The training was split into 2 stages. In the first, the network learns mainly through exploration and in the second it exploits already learned actions. The networks are in the networks.zip file.
